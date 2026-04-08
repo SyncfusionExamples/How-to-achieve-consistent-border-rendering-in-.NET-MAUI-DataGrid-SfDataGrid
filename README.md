@@ -1,5 +1,5 @@
 # How to achieve consistent border rendering in .NET MAUI DataGrid SfDataGrid?
-This article demonstrates how to achieve consistent grid line (border) rendering specifically on Android when working with the Syncfusion [.NET Maui DataGrid](https://help.syncfusion.com/maui/datagrid/overview)(SfDataGrid).
+This Sample demonstrates how to achieve consistent grid line (border) rendering specifically on Android when working with the Syncfusion [.NET Maui DataGrid](https://help.syncfusion.com/maui/datagrid/overview)(SfDataGrid).
 
 On Android devices, grid line thickness may appear thinner or inconsistent due to the device’s screen density. This behavior is platform-specific and does not affect other MAUI platforms. The workaround shown below adjusts the grid line thickness at runtime to ensure proper visual appearance on Android.
 
